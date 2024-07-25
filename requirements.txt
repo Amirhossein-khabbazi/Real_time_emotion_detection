@@ -1,0 +1,6 @@
+opencv-python-headless==4.5.3.56
+imutils==0.5.4
+ultralytics==8.0.47
+PyYAML==5.4.1
+tk==0.1.0
+numpy==1.19.5
