@@ -28,7 +28,7 @@ Here are some example screenshots demonstrating the performance of the system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/emotion-detection.git
+   https://github.com/Amirhossein-khabbazi/Real_time_emotion_detection.git
    cd emotion-detection
    ```
 2. **Install the required packages:**
