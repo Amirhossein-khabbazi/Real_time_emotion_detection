@@ -1,0 +1,2 @@
+Download the model from the following link and replace here
+https://www.kaggle.com/models/amirhoseynkkhabbazi/yolo10l-emotion-detection
