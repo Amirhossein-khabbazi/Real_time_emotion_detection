@@ -36,7 +36,7 @@ Here are some example screenshots demonstrating the performance of the system:
    ```bash
    pip install -r requirements.txt
    ```
-3. **Download the YOLO model from following repository and place it in the models/ directory:**
+3. **Download the fine-tuned YOLO model from following repository and place it in the models/ directory:**
    ```bash
    https://www.kaggle.com/models/amirhoseynkkhabbazi/yolo10l-emotion-detection
    ```
