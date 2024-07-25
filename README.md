@@ -1,6 +1,6 @@
 # Emotion Detection
 
-Real-time emotion detection using the YOLO model. This project utilizes OpenCV and a custom-trained YOLO model to detect and classify emotions in a live video stream from a webcam. The application includes a graphical user interface for controlling the detection process and capturing images with detected emotions.
+Real-time emotion detection using the YOLOv10l model. This project utilizes OpenCV and a custom-trained YOLO model to detect and classify emotions in a live video stream from a webcam. The application includes a graphical user interface for controlling the detection process and capturing images with detected emotions.
 
 ## Features
 
